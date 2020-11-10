@@ -1,1 +1,3 @@
 # gitcourse
+
+algumas alterações feitas
